@@ -20,6 +20,7 @@ body {
 }
 html{
   scroll-behavior : smooth;
+  scroll-padding-top: 95px;
 }
 ::-webkit-scrollbar{
   background-color : white;
